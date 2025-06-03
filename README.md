@@ -1,5 +1,8 @@
 # 🛰️ Multi-Class Land Cover Classification Using Hybrid Spectral-Spatial Deep Learning
 
+> 🚧 **Note:** This project is currently under update.  
+> 🔔 If you need urgent access or support, feel free to message me on [LinkedIn](https://www.linkedin.com/in/harshith-potnuri-144har/).
+
 A deep learning system for accurate and efficient **multi-label classification** of satellite imagery using both **RGB** and **spectral bands (NIR, SWIR)** from Sentinel-2 data, enhanced with **super-resolution**, **attention mechanisms**, and deployed via a **Gradio web interface**.
 
 ---
